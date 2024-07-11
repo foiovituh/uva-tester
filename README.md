@@ -51,7 +51,7 @@ Add and download the following dependencies to your `pom.xml`:
     <dependency>
         <groupId>com.github.foiovituh</groupId>
         <artifactId>uva-tester</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>v1.0-SNAPSHOT</version>
     </dependency>
 </dependencies>
 ```
