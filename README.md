@@ -56,6 +56,8 @@ Add and download the following dependencies to your `pom.xml`:
 </dependencies>
 ```
 
+---
+
 #### Mapping process:
 Annotate your test class with `@TestClass`, and annotate your test methods with `@TestMethod`. The test methods should be static, return void, and have no arguments. For example:
 
@@ -92,6 +94,8 @@ public class ShoppingTrolleyTestExecutor {
     }
 }
 ```
+
+---
 
 #### Assertor:
 You can also use assertion methods that can be useful when developing tests. They are available in the class: `com.github.foiovituh.uvatester.utils.Assertor`. For example, the method:
