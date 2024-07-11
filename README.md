@@ -57,7 +57,7 @@ Add and download the following dependencies to your `pom.xml`:
 ```
 
 #### Mapping process:
-Annotate your test class with `@TestClass`, and annotate your test methods with `TestMethod`. The test methods should be static, return void, and have no arguments. For example:
+Annotate your test class with `@TestClass`, and annotate your test methods with `@TestMethod`. The test methods should be static, return void, and have no arguments. For example:
 
 ```java
 @TestClass
